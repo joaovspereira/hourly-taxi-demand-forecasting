@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/**
+!data/README.md
+*.npz
+*.pkl
+*.joblib
+*.pt
+*.pth
