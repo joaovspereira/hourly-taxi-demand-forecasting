@@ -1,4 +1,14 @@
+![Hourly Taxi Demand Forecasting](assets/banner.svg)
+
+[English](README.md) · [Português](README.pt-BR.md) · [Notebook](notebooks/hourly_taxi_demand_forecasting.ipynb) · [Portfolio](https://github.com/joaovspereira)
+
 # Hourly Taxi Demand Forecasting
+
+> **Test RMSE 41.01**
+
+**Decision question:** Can next-hour taxi demand be forecast with test RMSE at or below 48?
+
+**Key result:** The saved LightGBM result is 41.01, meeting the project requirement.
 
 Time-series forecasting project for airport taxi demand.
 
@@ -60,3 +70,9 @@ The publication review checked notebook structure and code syntax, but did not r
 ## Learning
 
 This project was developed during the TripleTen Data Science bootcamp. It demonstrates a documented analytical workflow, explicit evaluation criteria and interpretation of model limitations.
+
+## Key learning
+
+Time-aware validation and feature timing are essential when predicting demand.
+
+[Explore the complete portfolio](https://github.com/joaovspereira) · [Contact](mailto:joaovitorsouza20pereira@gmail.com)
